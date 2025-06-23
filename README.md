@@ -3,7 +3,8 @@
 ![Tumblr UI](./0c014692-7b0f-431f-8288-578f68f7f7c7.png)
 
 Visual Vibe is a **content-based image recommendation system** that connects your aesthetic preferences with visually similar content from Tumblr. By analyzing your **liked posts** (especially image-based ones), the system recommends similar images using **computer vision techniques** like **SIFT**, **Bag of Visual Words (BoVW)**, and **K-Medoids clustering**.
-https://files.oaiusercontent.com/file-BnnoJ4NezbBcFyLjgytKuh?se=2025-06-23T06%3A57%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0c014692-7b0f-431f-8288-578f68f7f7c7.png&sig=GMWhT1AUqvgClrOhNiQNXyLNlIPPCXoXLSFYNJTmWeE%3D![image](https://github.com/user-attachments/assets/9419029f-d619-4940-8630-fcfc4b24c445)
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/5c74ab44-6287-4b5a-963a-db23c15330c9" />
+
 
 ---
 
